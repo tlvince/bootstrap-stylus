@@ -1,6 +1,6 @@
 # bootstrap-stylus
 
-Twitter's [Bootstrap][] for [Stylus][].
+Twitter's [Bootstrap][] (v2.0.1) for [Stylus][].
 
 This is the style component only (a port of Less to Stylus). See [blurp/bootstrap.stylus][blurp] for a full Node.js integration.
 
